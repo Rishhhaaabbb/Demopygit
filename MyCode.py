@@ -17,4 +17,5 @@ print(cur.fetchall())
 for i in cur:
     print(i)
 
-print("Rishab is Great")
+
+print("Rishab is Great mighty")
